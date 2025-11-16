@@ -23,6 +23,18 @@
         <div id="unity-build-title">Backrooms 2D</div>
       </div>
     </div>
+     <script>
+    window.fileMergerConfig = {
+      files: [
+        { name: '7-21-23.data', parts: 5 },
+        { name: '7-21-23.wasm.code', parts: 2 },
+        { name: '7-21-23.framework.js', parts: 1 },
+      ],
+      basePath: '',
+      debug: true
+    };
+  </script>
+       <script src="merge.js" ></script>
     <script>
       var container = document.querySelector("#unity-container");
       var canvas = document.querySelector("#unity-canvas");
@@ -54,7 +66,6 @@
         }
         updateBannerVisibility();
       }
-
       var buildUrl = "";
       var loaderUrl = buildUrl + "/7-21-23.loader.js";
       var config = {

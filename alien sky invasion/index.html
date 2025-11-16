@@ -10,6 +10,19 @@
   <link rel="stylesheet" href="TemplateData/style.css">
 
   <script src="TemplateData/UnityProgress.js"></script>
+  <script>
+    window.fileMergerConfig = {
+      files: [
+        { name: 'game.data.unityweb', parts: 2 },
+        { name: 'game.asm.code.unityweb', parts: 1 },
+        { name: 'game.asm.framework.unityweb', parts: 1 },
+        { name: 'game.asm.memory.unityweb', parts: 1 },
+      ],
+      basePath: 'Build/',
+      debug: true
+    };
+  </script>
+  <script src="merge.js" ></script>
   <script src="Build/UnityLoader.js"></script>
 
 
