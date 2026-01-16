@@ -1,0 +1,4108 @@
+{
+  "Fish": {
+    "FishCrucian": {
+      "Name": "Crucian",
+      "Species": "Peaceful",
+      "Description": "The crucian carp is a medium-sized member of the common carp family Cyprinidae. It occurs widely in northern European regions.",
+      "MinWeight": 250,
+      "MaxWeight": 3000,
+      "Scan": {
+        "dist": 5,
+        "range": 0.3
+      },
+      "FishBite": {
+        "KeyFrame1": {
+          "frame": 0,
+          "value": 0
+        },
+        "KeyFrame2": {
+          "frame": 5,
+          "value": -0.05
+        },
+        "KeyFrame3": {
+          "frame": 10,
+          "value": 0
+        },
+        "KeyFrame4": {
+          "frame": 15,
+          "value": -0.01
+        },
+        "KeyFrame5": {
+          "frame": 20,
+          "value": 0
+        },
+        "KeyFrame6": {
+          "frame": 25,
+          "value": -0.05
+        },
+        "KeyFrame7": {
+          "frame": 30,
+          "value": 0
+        },
+        "KeyFrame8": {
+          "frame": 32,
+          "value": -0.01
+        },
+        "KeyFrame9": {
+          "frame": 50,
+          "value": -0.05
+        },
+        "KeyFrame10": {
+          "frame": 60,
+          "value": 0
+        }
+      },
+      "Price": 2.95
+    },
+    "FishWhiteAmur": {
+      "Name": "White Amur",
+      "Species": "Peaceful",
+      "Description": "The grass carp (Ctenopharyngodon idella) is a large herbivorous freshwater fish species of the family Cyprinidae native to eastern Asia.",
+      "MinWeight": 1500,
+      "MaxWeight": 9000,
+      "Scan": {
+        "dist": 8,
+        "range": 0.25
+      },
+      "FishBite": {
+        "KeyFrame1": {
+          "frame": 0,
+          "value": 0
+        },
+        "KeyFrame2": {
+          "frame": 5,
+          "value": -0.15
+        },
+        "KeyFrame3": {
+          "frame": 10,
+          "value": -0.10
+        },
+        "KeyFrame4": {
+          "frame": 15,
+          "value": -0.10
+        },
+        "KeyFrame5": {
+          "frame": 20,
+          "value": 0
+        },
+        "KeyFrame6": {
+          "frame": 25,
+          "value": -0.05
+        },
+        "KeyFrame7": {
+          "frame": 30,
+          "value": 0
+        },
+        "KeyFrame8": {
+          "frame": 32,
+          "value": -0.10
+        },
+        "KeyFrame9": {
+          "frame": 50,
+          "value": -0.5
+        },
+        "KeyFrame10": {
+          "frame": 60,
+          "value": 0
+        }
+      },
+      "Price": 4.95
+    },
+    "FishPike": {
+      "Name": "Pike",
+      "Species": "Predator",
+      "Description": "The northern pike, known simply as a pike in Britain, Ireland, most of Canada, and most parts of the United States, is a species of carnivorous fish of the genus Esox. They are typical of brackish and fresh waters of the Northern Hemisphere.",
+      "MinWeight": 500,
+      "MaxWeight": 13000,
+      "Scan": {
+        "dist": 8,
+        "range": 0.25
+      },
+      "FishBite": {
+        "KeyFrame1": {
+          "frame": 0,
+          "value": 0
+        },
+        "KeyFrame2": {
+          "frame": 5,
+          "value": -0.05
+        },
+        "KeyFrame3": {
+          "frame": 10,
+          "value": 0
+        },
+        "KeyFrame4": {
+          "frame": 15,
+          "value": -0.1
+        },
+        "KeyFrame5": {
+          "frame": 20,
+          "value": 0
+        },
+        "KeyFrame6": {
+          "frame": 25,
+          "value": -0.05
+        },
+        "KeyFrame7": {
+          "frame": 30,
+          "value": 0
+        },
+        "KeyFrame8": {
+          "frame": 32,
+          "value": -0.3
+        },
+        "KeyFrame9": {
+          "frame": 50,
+          "value": -0.2
+        },
+        "KeyFrame10": {
+          "frame": 60,
+          "value": 0
+        }
+      },
+      "Price": 6.80
+    },
+    "FishIde": {
+      "Name": "Ide",
+      "Species": "Peaceful",
+      "Description": "The ide (Leuciscus idus), or orfe, is a freshwater fish of the family Cyprinidae found in larger rivers, ponds, and lakes across northern Europe and Asia.",
+      "MinWeight": 320,
+      "MaxWeight": 8500,
+      "Scan": {
+        "dist": 5,
+        "range": 0.15
+      },
+      "FishBite": {
+        "KeyFrame1": {
+          "frame": 0,
+          "value": 0
+        },
+        "KeyFrame2": {
+          "frame": 5,
+          "value": -0.15
+        },
+        "KeyFrame3": {
+          "frame": 10,
+          "value": 0
+        },
+        "KeyFrame4": {
+          "frame": 15,
+          "value": -0.10
+        },
+        "KeyFrame5": {
+          "frame": 20,
+          "value": 0
+        },
+        "KeyFrame6": {
+          "frame": 25,
+          "value": -0.05
+        },
+        "KeyFrame7": {
+          "frame": 30,
+          "value": -0.15
+        },
+        "KeyFrame8": {
+          "frame": 32,
+          "value": -0.10
+        },
+        "KeyFrame9": {
+          "frame": 50,
+          "value": -0.5
+        },
+        "KeyFrame10": {
+          "frame": 60,
+          "value": 0
+        }
+      },
+      "Price": 5.50
+    },
+    "FishPerch": {
+      "Name": "Perch",
+      "Species": "Predator",
+      "Description": "Perca fluviatilis, is a predatory species of perch found in Europe and northern Asia. The species is a popular quarry for anglers, and has been widely introduced beyond its native area, into Australia, New Zealand, and South Africa.",
+      "MinWeight": 220,
+      "MaxWeight": 3600,
+      "Scan": {
+        "dist": 7,
+        "range": 0.35
+      },
+      "FishBite": {
+        "KeyFrame1": {
+          "frame": 0,
+          "value": 0
+        },
+        "KeyFrame2": {
+          "frame": 5,
+          "value": -0.05
+        },
+        "KeyFrame3": {
+          "frame": 10,
+          "value": 0
+        },
+        "KeyFrame4": {
+          "frame": 15,
+          "value": -0.05
+        },
+        "KeyFrame5": {
+          "frame": 20,
+          "value": 0
+        },
+        "KeyFrame6": {
+          "frame": 25,
+          "value": -0.05
+        },
+        "KeyFrame7": {
+          "frame": 30,
+          "value": -0.1
+        },
+        "KeyFrame8": {
+          "frame": 32,
+          "value": 0
+        },
+        "KeyFrame9": {
+          "frame": 50,
+          "value": -0.05
+        },
+        "KeyFrame10": {
+          "frame": 60,
+          "value": 0
+        }
+      },
+      "Price": 3.50
+    }
+  },
+  "Lure": {
+    "Lure1": {
+      "Name": "Lure 1",
+      "Species": "Predator",
+      "Description": "Lure 1 is through wired, and feature lifelike gills and a reflective finish. Center weighted (flutter), red 3D eyes, epoxy coated.",
+      "Weight": 41.40,
+      "Category": [
+        1,
+        1,
+        1
+      ],
+      "Price": 65
+    },
+    "Lure2": {
+      "Name": "Lure 2",
+      "Species": "Predator",
+      "Description": "Lure 2 is free style jigs that drop fast with lots of flutter. DEEP FORCE jigs are clear coated for durability. The jigs listed below are rigged with 9/0 heavy duty live bait hooks on Kevlar cord attached to a 300 lb test Owner solid ring.",
+      "Weight": 200.00,
+      "Category": [
+        0,
+        1,
+        1
+      ],
+      "Price": 210
+    },
+    "Lure3": {
+      "Name": "Lure 3",
+      "Species": "Predator",
+      "Description": "The Lure 3 has earned its place in history as the most productive lure ever to come along. Its versatility is unmatched. Ideal for surf-casting and inland bays.",
+      "Weight": 14.78,
+      "Category": [
+        1,
+        0,
+        0
+      ],
+      "Price": 70
+    },
+    "Lure4": {
+      "Name": "Lure 4",
+      "Species": "Predator",
+      "Description": "Large lures catch large fish. Great for close offshore and deeper inland bays.",
+      "Weight": 22.18,
+      "Category": [
+        1,
+        1,
+        0
+      ],
+      "Price": 60
+    },
+    "Lure5": {
+      "Name": "Lure 5",
+      "Species": "Predator",
+      "Description": "Lure 5 is compact top water lures that feature an extra wide mouth which causes a very large splash, drawing fish in from long distances. These lures are perfectly weighted for long distance casting.",
+      "Weight": 25.72,
+      "Category": [
+        1,
+        1,
+        0
+      ],
+      "Price": 170
+    },
+    "Lure6": {
+      "Name": "Lure 6",
+      "Species": "Predator",
+      "Description": "The Lure 6 is versatile top water plugs for all game species. Great for walk the dog, slash, rip and stop, slow or fast retrieve techniques. These lures are precisely weighted for maximum casting distance.",
+      "Weight": 99.82,
+      "Category": [
+        0,
+        1,
+        1
+      ],
+      "Price": 175
+    },
+    "Lure7": {
+      "Name": "Lure 7",
+      "Species": "Predator",
+      "Description": "This flat-sided crankbait has an authentic profile and precise swimming action that is so accurate it is in a league of its own. The internal design of this lure generates a soft roll and tight wiggle action.",
+      "Weight": 7.39,
+      "Category": [
+        1,
+        0,
+        0
+      ],
+      "Price": 135
+    },
+    "Lure8": {
+      "Name": "Lure 8",
+      "Species": "Predator",
+      "Description": "The Lure 8 replicate a juvenile sunfish, pushed to the surface by predatory fish.",
+      "Weight": 12.71,
+      "Category": [
+        1,
+        0,
+        0
+      ],
+      "Price": 130
+    },
+    "Lure9": {
+      "Name": "Lure 9",
+      "Species": "Peaceful",
+      "Description": "The Lure 9 are individually wrapped for fresh bait every time you rip one open! Slick Sticks have an irresistible soft texture.",
+      "Weight": 3,
+      "Category": [
+        1,
+        1,
+        1
+      ],
+      "Price": 0
+    },
+    "Lure10": {
+      "Name": "Lure 10",
+      "Species": "Peaceful",
+      "Description": "The Lure 10 are made from a soft flexible material that is able to successfully hold scents. This bait won't dry up if they are left out in the sun or air. ",
+      "Weight": 5,
+      "Category": [
+        0,
+        1,
+        1
+      ],
+      "Price": 100
+    }
+  },
+  "Rod": {
+    "Rod1": {
+      "Name": "Rod 1",
+      "Description": "This rods are constructed with powerful, responsive and durable IM-6 graphite. Fast, flexible tips with hook-setting strength to spare, and graphite reel seats.",
+      "reelPos": {
+        "x": 0,
+        "y": 0.85,
+        "z": 0.07
+      },
+      "reelPower": 1.0,
+      "maxTension": 0.70,
+      "Price": 0
+    },
+    "Rod2": {
+      "Name": "Rod 2",
+      "Description": "This rod are a powerful, durable and reasonably priced model that anglers covet. The model is designed to be pushed to the max and perform perfectly.",
+      "reelPos": {
+        "x": 0,
+        "y": 0.85,
+        "z": 0.07
+      },
+      "reelPower": 1.5,
+      "maxTension": 0.75,
+      "Price": 520
+    },
+    "Rod3": {
+      "Name": "Rod 3",
+      "Description": "This rod deliver the ultimate in strength, sensitivity, weight, and balance! ",
+      "reelPos": {
+        "x": 0,
+        "y": 0.85,
+        "z": 0.07
+      },
+      "reelPower": 1.25,
+      "maxTension": 0.73,
+      "Price": 370
+    }
+  },
+  "Gui": {
+    "MainMenu": {
+      "Title": "Ice Fishing",
+      "ButtonDevBy": "Developed by www.playcombo.com",
+      "ButtonPlay": "Play",
+      "ButtonHelp": "Help",
+      "ButtonScores": "Scores",
+      "ButtonMoreGames": "More Games"
+    },
+    "Help": {
+      "Title": "Help",
+      "Text": "  What will be your biggest catch? Find the Perfect Location. Choose the Right Bait. Do not rush to pull the float, patience is a certain guarantee of success. Enjoy the positive peace in this Ice Fishing game. And most importantly fishing, excitement and beauty.\n\n  Instruction:\n - To catch, use the large arrows in the upper right and lower right corners of the screen.\n - In the upper left corner of the screen you will see a warning about the tension of the fishing line. If the tension of the fishing line is strong, then the green color will turn into red. The fishing line may break and you will lose the caught fish.\n - You can change lures, fishing rods, fishing spots.\n - For every caught any fish, you will get money. With this money you can buy new bait, the rods.",
+      "Button1Text": "Ok"
+    },
+    "Scores": {
+      "Title": "Top 10 Scores",
+      "Text": "view all score",
+      "Button1Text": "Ok",
+      "Button2Text": "View all",
+      "Button3Text": "Submit"
+    },
+    "SendScores": {
+      "Title": "Send Scores",
+      "Text": "Enter your nickname here",
+      "Button1Text": "Send",
+      "Button2Text": "Cancel"
+    },
+    "Lures": {
+      "Title": "Lures",
+      "Text": "The lures ... ",
+      "Button1Text": "Ok"
+    },
+    "Rods": {
+      "Title": "Rods",
+      "Text": "The rods ... ",
+      "Button1Text": "Ok"
+    },
+    "Buy": {
+      "Title": "Information",
+      "Button1Text": "Buy",
+      "Button2Text": "Cancel"
+    },
+    "Selector": {
+      "ButtonBackText": "< Back",
+      "ButtonNextText": "Next >",
+      "TopTex": "Select place to fishing"
+    }
+  },
+  "PlayerSpr": {
+    "frames": [
+      {
+        "filename": "PersDrill_01",
+        "frame": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_02",
+        "frame": {
+          "x": 100,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_03",
+        "frame": {
+          "x": 200,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_04",
+        "frame": {
+          "x": 300,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_05",
+        "frame": {
+          "x": 400,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_06",
+        "frame": {
+          "x": 500,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_07",
+        "frame": {
+          "x": 600,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_08",
+        "frame": {
+          "x": 700,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_09",
+        "frame": {
+          "x": 800,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_10",
+        "frame": {
+          "x": 900,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_11",
+        "frame": {
+          "x": 0,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_12",
+        "frame": {
+          "x": 100,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_13",
+        "frame": {
+          "x": 200,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_14",
+        "frame": {
+          "x": 300,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_15",
+        "frame": {
+          "x": 400,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_16",
+        "frame": {
+          "x": 500,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_17",
+        "frame": {
+          "x": 600,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_18",
+        "frame": {
+          "x": 700,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_19",
+        "frame": {
+          "x": 800,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_20",
+        "frame": {
+          "x": 900,
+          "y": 100,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_21",
+        "frame": {
+          "x": 0,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_22",
+        "frame": {
+          "x": 100,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_23",
+        "frame": {
+          "x": 200,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_24",
+        "frame": {
+          "x": 300,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_25",
+        "frame": {
+          "x": 400,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_26",
+        "frame": {
+          "x": 500,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_27",
+        "frame": {
+          "x": 600,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_28",
+        "frame": {
+          "x": 700,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_29",
+        "frame": {
+          "x": 800,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_30",
+        "frame": {
+          "x": 900,
+          "y": 200,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_31",
+        "frame": {
+          "x": 0,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_32",
+        "frame": {
+          "x": 100,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_33",
+        "frame": {
+          "x": 200,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_34",
+        "frame": {
+          "x": 300,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_35",
+        "frame": {
+          "x": 400,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_36",
+        "frame": {
+          "x": 500,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_37",
+        "frame": {
+          "x": 600,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_38",
+        "frame": {
+          "x": 700,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_39",
+        "frame": {
+          "x": 800,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_40",
+        "frame": {
+          "x": 900,
+          "y": 300,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_41",
+        "frame": {
+          "x": 0,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_42",
+        "frame": {
+          "x": 100,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_43",
+        "frame": {
+          "x": 200,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_44",
+        "frame": {
+          "x": 300,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_45",
+        "frame": {
+          "x": 400,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_46",
+        "frame": {
+          "x": 500,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_47",
+        "frame": {
+          "x": 600,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_48",
+        "frame": {
+          "x": 700,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_49",
+        "frame": {
+          "x": 800,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersDrill_50",
+        "frame": {
+          "x": 900,
+          "y": 400,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_01",
+        "frame": {
+          "x": 0,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_02",
+        "frame": {
+          "x": 100,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_03",
+        "frame": {
+          "x": 200,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_04",
+        "frame": {
+          "x": 300,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_05",
+        "frame": {
+          "x": 400,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_06",
+        "frame": {
+          "x": 500,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_07",
+        "frame": {
+          "x": 600,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_08",
+        "frame": {
+          "x": 700,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_09",
+        "frame": {
+          "x": 800,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_10",
+        "frame": {
+          "x": 900,
+          "y": 500,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_11",
+        "frame": {
+          "x": 0,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_12",
+        "frame": {
+          "x": 100,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_13",
+        "frame": {
+          "x": 200,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_14",
+        "frame": {
+          "x": 300,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_15",
+        "frame": {
+          "x": 400,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_16",
+        "frame": {
+          "x": 500,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_17",
+        "frame": {
+          "x": 600,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_18",
+        "frame": {
+          "x": 700,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_19",
+        "frame": {
+          "x": 800,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_20",
+        "frame": {
+          "x": 900,
+          "y": 600,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_21",
+        "frame": {
+          "x": 0,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_22",
+        "frame": {
+          "x": 100,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_23",
+        "frame": {
+          "x": 200,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_24",
+        "frame": {
+          "x": 300,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_25",
+        "frame": {
+          "x": 400,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_26",
+        "frame": {
+          "x": 500,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_27",
+        "frame": {
+          "x": 600,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_28",
+        "frame": {
+          "x": 700,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_29",
+        "frame": {
+          "x": 800,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "PersWalk_30",
+        "frame": {
+          "x": 900,
+          "y": 700,
+          "w": 100,
+          "h": 100
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 100,
+          "h": 100
+        },
+        "sourceSize": {
+          "w": 100,
+          "h": 100
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    ],
+    "meta": {
+      "image": "pers_spr.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 1024,
+        "h": 1024
+      },
+      "scale": 1
+    }
+  },
+  "FlagSpr": {
+    "frames": [
+      {
+        "filename": "0071",
+        "frame": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0072",
+        "frame": {
+          "x": 32,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0073",
+        "frame": {
+          "x": 64,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0074",
+        "frame": {
+          "x": 96,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0075",
+        "frame": {
+          "x": 128,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0076",
+        "frame": {
+          "x": 160,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0077",
+        "frame": {
+          "x": 192,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0078",
+        "frame": {
+          "x": 224,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0079",
+        "frame": {
+          "x": 0,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0080",
+        "frame": {
+          "x": 32,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0081",
+        "frame": {
+          "x": 64,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0082",
+        "frame": {
+          "x": 96,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0083",
+        "frame": {
+          "x": 128,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0084",
+        "frame": {
+          "x": 160,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0085",
+        "frame": {
+          "x": 192,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0086",
+        "frame": {
+          "x": 224,
+          "y": 32,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0087",
+        "frame": {
+          "x": 0,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0088",
+        "frame": {
+          "x": 32,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0089",
+        "frame": {
+          "x": 64,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0090",
+        "frame": {
+          "x": 96,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0091",
+        "frame": {
+          "x": 128,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0092",
+        "frame": {
+          "x": 160,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0093",
+        "frame": {
+          "x": 192,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0094",
+        "frame": {
+          "x": 224,
+          "y": 64,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0095",
+        "frame": {
+          "x": 0,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0096",
+        "frame": {
+          "x": 32,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0097",
+        "frame": {
+          "x": 64,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0098",
+        "frame": {
+          "x": 96,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0099",
+        "frame": {
+          "x": 128,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0100",
+        "frame": {
+          "x": 160,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0101",
+        "frame": {
+          "x": 192,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0102",
+        "frame": {
+          "x": 224,
+          "y": 96,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0103",
+        "frame": {
+          "x": 0,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0104",
+        "frame": {
+          "x": 32,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0105",
+        "frame": {
+          "x": 64,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0106",
+        "frame": {
+          "x": 96,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0107",
+        "frame": {
+          "x": 128,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0108",
+        "frame": {
+          "x": 160,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0109",
+        "frame": {
+          "x": 192,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0110",
+        "frame": {
+          "x": 224,
+          "y": 128,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0111",
+        "frame": {
+          "x": 0,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0112",
+        "frame": {
+          "x": 32,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0113",
+        "frame": {
+          "x": 64,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0114",
+        "frame": {
+          "x": 96,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0115",
+        "frame": {
+          "x": 128,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0116",
+        "frame": {
+          "x": 160,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0117",
+        "frame": {
+          "x": 192,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0118",
+        "frame": {
+          "x": 224,
+          "y": 160,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0119",
+        "frame": {
+          "x": 0,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0120",
+        "frame": {
+          "x": 32,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0121",
+        "frame": {
+          "x": 64,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0122",
+        "frame": {
+          "x": 96,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0123",
+        "frame": {
+          "x": 128,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0124",
+        "frame": {
+          "x": 160,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0125",
+        "frame": {
+          "x": 192,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0126",
+        "frame": {
+          "x": 224,
+          "y": 192,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0127",
+        "frame": {
+          "x": 0,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0128",
+        "frame": {
+          "x": 32,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0129",
+        "frame": {
+          "x": 64,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0130",
+        "frame": {
+          "x": 96,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0131",
+        "frame": {
+          "x": 128,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0132",
+        "frame": {
+          "x": 160,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0133",
+        "frame": {
+          "x": 192,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      },
+      {
+        "filename": "0134",
+        "frame": {
+          "x": 224,
+          "y": 224,
+          "w": 32,
+          "h": 32
+        },
+        "rotated": false,
+        "trimmed": false,
+        "spriteSourceSize": {
+          "x": 0,
+          "y": 0,
+          "w": 32,
+          "h": 32
+        },
+        "sourceSize": {
+          "w": 32,
+          "h": 32
+        },
+        "pivot": {
+          "x": 0.5,
+          "y": 0.5
+        }
+      }
+    ],
+    "meta": {
+      "image": "flag_spr.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 256,
+        "h": 256
+      },
+      "scale": 1
+    }
+  }
+}
