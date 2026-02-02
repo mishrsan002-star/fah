@@ -1668,7 +1668,7 @@ self.JobSchedulerDOM = class {
   async Init() {
     if (this._hasInitialised) throw Error("already initialised");
     this._hasInitialised = !0;
-    var a = this._runtimeInterface._GetWorkerURL(this._GetWorkerScriptFolder() + "dispatchworker.js");
+    var a = this._runtimeInterface._GetWorkerURL(this._GetWorkerScriptFolder() + "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/throw-a-patata-space/scripts/dispatchworker.js");
     this._dispatchWorker = await this._runtimeInterface.CreateWorker(a, this._baseUrl, {
       name: "DispatchWorker"
     });
@@ -1723,7 +1723,7 @@ window.C3_IsSupported && (window.c3_runtimeInterface = new self.RuntimeInterface
   projectScripts: [],
   mainProjectScript: "",
   scriptFolder: "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/throw-a-patata-space/scripts/",
-  workerDependencyScripts: ["box2d.wasm.js"],
+  workerDependencyScripts: ["https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@main/throw-a-patata-space/scripts/box2d.wasm.js"],
   exportType: "html5"
 }));
 "use strict";
