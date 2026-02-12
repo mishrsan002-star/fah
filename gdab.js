@@ -60,6 +60,14 @@ window.XMLHttpRequest = function() {
     xhr._blockedUrl = !isSameDomain(url) ? url : null;
     return originalOpen.apply(this, [method, url, ...rest]);
   };
+  const originalGetResponseHeader = xhr.getResponseHeader;
+xhr.getResponseHeader = function(name) {
+  try {
+    return originalGetResponseHeader.call(this, name);
+  } catch(e) {
+    return null; 
+  }
+};
   
   const originalSend = xhr.send;
   xhr.send = function(body) {
